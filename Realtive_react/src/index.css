@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@200;300;400;500;600;700;800&display=swap');
+
+@font-face {
+  font-family: RomanaBeckerUltra ;
+  src: url(./assets/fonts/Romana_Becker_Ultra/RomanaBeckerUltraRegular.ttf);
+  font-weight: normal;
+  font-style: normal;
+};
+
+
+:root {
+  color-scheme: light dark;
+  /* color: black; */
+  /* background-color: #242424; */
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+
+  /* Variables */
+
+  --gradient-text: linear-gradient(89.97deg, #AE67FA 1.84%, #F49867 102.67%);
+  --gradient-bar: linear-gradient(103.22deg, #AE67FA -13.86%, #F49867 99.55%);
+  
+  --color-2: #F3E7D9;
+  --color-1 : #235459;
+  --color-3: #FECF63;
+  --color-4: #F2B5A0;
+  --color-5: #8C1620;
+}
+
